@@ -1,3 +1,3 @@
 # HarriGitCollaboration
 
-Git collaboration practice repository.
+Git collaboration repository for GitLab Flow practice.
