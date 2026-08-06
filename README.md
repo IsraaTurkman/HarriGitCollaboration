@@ -1,3 +1,4 @@
 # HarriGitCollaboration
 
-Git collaboration practice repository.
+Git collaboration repository for DevOps training.
+
