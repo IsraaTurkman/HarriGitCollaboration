@@ -1,3 +1,3 @@
 # HarriGitCollaboration
 
-Git collaboration repository for DevOps training and GitLab Flow practice.
+Git collaboration repository managed by Israa.
