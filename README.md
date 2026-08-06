@@ -1,3 +1,3 @@
 # HarriGitCollaboration
 
-Git collaboration repository managed by Sara.
+Git collaboration repository managed by Israa and Sara.
